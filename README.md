@@ -27,3 +27,26 @@ Please reach out to your respective TA if you need any help in regards with subm
 Author:
 - Aditya Mulik (mulik.a@northeastern.edu)
 - Sai Akhil Vemula (vemula.v@northeastern.edu)
+
+### specifications of Assignment: 
+100 TOTAL POINTS Adapter for existing Stock Program
+
+NOTE: 20 POINT DEDUCTION if submitted to Canvas late or incorrect. 
+
+30 POINTS 1. Create a Client API of your own design.
+
+30 POINTS 2. Create a Legacy API of your own design.
+
+NOTE: BE SURE THAT THE TWO APIs are DIFFERENT.
+
+40 POINTS 3. Create an Adapter which implements the Adapter design pattern:
+
+Adapter will have a static demo method to demonstrate the use of the Adapter design pattern.
+
+REMEMBER:
+
+The Adapter:
+
+A. must derive from the Client API (Class composition via inheritance IS-A Client API derived class)
+
+B. must USE the LEGACY API (to use the LEGACY object via object composition HAS-A LEGACY object)
